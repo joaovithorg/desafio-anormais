@@ -1,2 +1,15 @@
-# Desafio Escolar de Programação 
-- Desafio realizado em sala de aula, com o objetivo de melhorar nossa habilidade de versionamente com o git e o trabalho em equipe.
+<h1 align="center">
+    ⚙️Desafio escolar 
+</h1>
+
+<p align="justify">
+    Desafio produzido em sala de aula com a finalidade de melhorar o trabalho em equipe do nosso time e nos habituar com o versionamento de versoes de um projeto usando o git.
+</p>
+
+
+##  🛠️ Tecnologias Usadas
+    - html
+    - css
+    - js 
+    - git e github
+
